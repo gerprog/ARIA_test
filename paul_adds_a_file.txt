@@ -2,8 +2,13 @@
 WOW its a new file !
 
 The branch thingy did not work!
+<<<<<<< HEAD
+
+
+=======
 it was a terrible idea !
 =======
+>>>>>>> 336756a5c1c0583b2df177392b3ee35a88705ac4
 WOW its a n
 
 HELLO EVERYONE !!!!!!!!!!!!
