@@ -17,3 +17,4 @@ Does it work? from J
 
 BLAAAAAAAHHHHHHH!!!!!
 
+Paul's not getting error msgs!!!!
