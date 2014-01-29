@@ -9,7 +9,7 @@ Paul does it again - this time with SSH MO FO !
 
 
 
-Ger is signin in!
+Ger is signin
 
 
 Does it work? from J
