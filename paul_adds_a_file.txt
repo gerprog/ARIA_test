@@ -4,17 +4,29 @@ WOW its a new file
 
 WOW its a new file !
 
+<<<<<<< HEAD
 NOw even shinier!!
 
 break you bastard!
 
 
-WOW its a new file !
+The branch thingy did not work!
+<<<<<<< HEAD
 
+
+
+<<<<<<< HEAD
 The branch thingy did not work!
 
 WOW its a n
 
 Ger here trying to merge!!!
+
+
+it was a terrible idea 
+
+WOW its a n
+
+HELLO EVERYONE !!!!!!!!!!!!
 
 add by sanjeev -- push for merge with git file
